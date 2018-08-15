@@ -1,0 +1,10 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*$py.class
+.ipynb_checkpoints
+
+
+all/
