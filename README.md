@@ -13,3 +13,7 @@ python object_detection/model_main.py \
 
 
 python object_detection/legacy/train.py --logtostderr --train_dir=/home/ubuntu/kaggle-airbus_ship-faster-RCNN/model/train/ --pipeline_config_path=/home/ubuntu/kaggle-airbus_ship-faster-RCNN/ssd_mobilenet_v1_ship.config 
+
+
+
+tensorboard --logdir=/home/ubuntu/kaggle-airbus_ship-faster-RCNN/model/
