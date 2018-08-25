@@ -17,3 +17,5 @@ python object_detection/legacy/train.py --logtostderr --train_dir=/home/ubuntu/k
 
 
 tensorboard --logdir=/home/ubuntu/kaggle-airbus_ship-faster-RCNN/model/
+
+tensorboard --logdir=/home/ubuntu/kaggle-airbus_ship-faster-RCNN/logdir
